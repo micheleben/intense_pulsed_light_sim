@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg877"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="geometry_camera.svg">
+  <defs
+     id="defs871" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="463.30606"
+     inkscape:cy="304.97552"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1346"
+     inkscape:window-height="1040"
+     inkscape:window-x="299"
+     inkscape:window-y="1080"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata874">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.330065;fill:#ffff00;stroke-width:0.108363"
+       id="rect1440"
+       width="30"
+       height="40"
+       x="64.255997"
+       y="51.648811" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 64.255997,91.648811 99.407786,45.346725"
+       id="path1442"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.299966px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 94.255997,91.648811 94.184572,44.530694"
+       id="path1444"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="opacity:0.330065;fill:#ffff00;stroke-width:0.356851"
+       id="rect1446"
+       width="30"
+       height="20"
+       x="64.255997"
+       y="71.648811" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 64.255997,91.648811 102.03306,66.651518"
+       id="path1442-4"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="opacity:0.330065;fill:#ffff00;stroke-width:0.319924"
+       id="rect1468"
+       width="30"
+       height="10"
+       x="64.255997"
+       y="81.648811" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 64.255997,91.648811 101.62188,79.182908"
+       id="path1442-4-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.129604;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 94.2534,91.633739 h 46.25798 l 0.0581,0.183103"
+       id="path1490" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.105657;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 94.253743,81.649938 46.257637,-0.0162"
+       id="path1490-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 94.255997,71.648811 h 32.791253 l 13.46413,-0.01507"
+       id="path1490-6"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="path1530"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 94.257811,49.278645 c 0.691638,-0.144814 1.35433,0.199323 1.795375,0.708709" />
+    <path
+       id="path1546"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 94.352305,69.736607 c 0.993712,-0.489296 1.705386,-0.01129 2.173362,0.661467"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path1560"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 94.399554,78.666294 c 1.05452,0.169673 2.111516,0.85466 2.267749,2.031626"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="115.87601"
+       y="88.557137"
+       id="text1599"><tspan
+         sodipodi:role="line"
+         id="tspan1597"
+         x="115.87601"
+         y="88.557137"
+         style="stroke-width:0.264583">10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="74.272324"
+       y="98.462807"
+       id="text1603"><tspan
+         sodipodi:role="line"
+         id="tspan1601"
+         x="74.272324"
+         y="98.462807"
+         style="stroke-width:0.264583">30</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="116.00276"
+       y="78.122368"
+       id="text1599-1"><tspan
+         sodipodi:role="line"
+         id="tspan1597-8"
+         x="116.00276"
+         y="78.122368"
+         style="stroke-width:0.264583">20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="116.26066"
+       y="61.043156"
+       id="text1640"><tspan
+         sodipodi:role="line"
+         id="tspan1638"
+         x="116.26066"
+         y="61.043156"
+         style="stroke-width:0.264583">40</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="104.23512"
+       y="81.650841"
+       id="text1644"><tspan
+         sodipodi:role="line"
+         id="tspan1642"
+         x="104.23512"
+         y="81.650841"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="102.00871"
+       y="51.449387"
+       id="text1648"><tspan
+         sodipodi:role="line"
+         id="tspan1646"
+         x="102.00871"
+         y="51.449387"
+         style="stroke-width:0.264583">FOV 36.9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="102.02249"
+       y="71.093697"
+       id="text1652"><tspan
+         sodipodi:role="line"
+         id="tspan1650"
+         x="102.02249"
+         y="71.093697"
+         style="stroke-width:0.264583">FOV 56.3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="102.03283"
+       y="81.25531"
+       id="text1656"><tspan
+         sodipodi:role="line"
+         id="tspan1654"
+         x="102.03283"
+         y="81.25531"
+         style="stroke-width:0.264583">FOV 71.5</tspan></text>
+    <rect
+       style="opacity:0.330065;fill:#ffff00;stroke-width:0.0625634"
+       id="rect1440-5"
+       width="10"
+       height="40"
+       x="140.51138"
+       y="51.633736" />
+    <rect
+       style="opacity:0.330065;fill:#ffff00;stroke-width:0.206028"
+       id="rect1446-8"
+       width="10"
+       height="20"
+       x="140.51138"
+       y="71.633736" />
+    <rect
+       style="opacity:0.330065;fill:#ffff00;stroke-width:0.184708"
+       id="rect1468-0"
+       width="10"
+       height="10"
+       x="140.51138"
+       y="81.633736" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.129604;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 94.253403,51.633736 h 46.257977 l 0.0581,0.183103"
+       id="path1490-2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 140.56948,91.81684 V 44.506697"
+       id="path1758" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 134.75244,75.874792 150.51138,91.633735 134.90811,61.137128"
+       id="path1760"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 150.51138,91.633735 138.62277,44.884673 v 0"
+       id="path1762" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="124.00364"
+       y="51.109177"
+       id="text1648-0"><tspan
+         sodipodi:role="line"
+         id="tspan1646-0"
+         x="124.00364"
+         y="51.109177"
+         style="stroke-width:0.264583">FOV 14</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="124.21674"
+       y="81.347267"
+       id="text1656-9"><tspan
+         sodipodi:role="line"
+         id="tspan1654-9"
+         x="124.21674"
+         y="81.347267"
+         style="stroke-width:0.264583">FOV 45</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="123.73393"
+       y="71.330902"
+       id="text1652-4"><tspan
+         sodipodi:role="line"
+         id="tspan1650-7"
+         x="123.73393"
+         y="71.330902"
+         style="stroke-width:0.264583">FOV 26</tspan></text>
+  </g>
+</svg>
